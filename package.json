@@ -13,7 +13,7 @@
     "assert": "^2.0.0",
     "http": "0.0.1-security",
     "ipware": "^2.0.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "redis": "^3.0.2",
     "request": "^2.88.2",
     "url": "^0.11.0"
